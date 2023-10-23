@@ -14,5 +14,5 @@ public class StaticBlock {
         System.out.println("This is Static method 2");
     }
 
-    
+    //Static Block execute before the Main method 
 }

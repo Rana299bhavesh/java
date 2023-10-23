@@ -11,7 +11,7 @@ public class logicalOperators {
         System.out.println(b4);
         System.out.println(b5);
 
-        System.out.println((10>20) && (20>67));
+        System.out.println((10>20) && (23<67));
         System.out.println((23<78) &&(78>54));
     }
     
