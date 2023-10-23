@@ -3,7 +3,7 @@ public class logicalOperators {
         boolean b1 =true && true;
         boolean b2 =true && true && true;
         boolean b3 =true && false;
-        boolean b4 =true || true;
+        boolean b4 =true || false;
         boolean b5 =true || false;
         System.out.println(b1);
         System.out.println(b2);
