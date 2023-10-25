@@ -21,6 +21,8 @@ public class Scanneerclass {
         System.out.println("EmployeeName:- " + EmployeeName);
 
         System.out.println("EmployeeSalary:- " + EmpSalary);
+
+        sc.close();
         
 
 
