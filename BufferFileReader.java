@@ -9,6 +9,6 @@ public class BufferFileReader{
             System.out.println(data);
             br.close();
         
-    }
+    } 
     
 }
